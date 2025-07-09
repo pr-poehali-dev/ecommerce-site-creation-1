@@ -47,6 +47,13 @@ const Index = () => {
       image: "/img/d11a30db-a08c-40e1-aa94-fe17e9373cb1.jpg",
       category: "Одежда",
     },
+    {
+      id: 5,
+      name: "Стильная куртка",
+      price: "12,990 ₽",
+      image: "/img/55293714-c182-4ab1-bb5d-86221ed27ca0.jpg",
+      category: "Одежда",
+    },
   ];
 
   return (
